@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alan-Vasconi&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alan-VSouza&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <div align="center">  
