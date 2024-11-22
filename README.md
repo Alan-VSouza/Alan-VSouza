@@ -75,7 +75,7 @@
   <br>
   <p align="center"><b>Visitors Count</b></p>  
   <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{Alan-Vasconi}/count.svg" />
+    <img align="center" src="https://profile-counter.glitch.me/{Alan-VSouza}/count.svg" />
   </p> 
   <br>
 </div>
