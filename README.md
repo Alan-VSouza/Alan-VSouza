@@ -14,7 +14,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/alanvasconi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://linktr.ee/AlanVasconi"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white" alt="Linktree" /></a>
+  <a href="https://alansouza.netlify.app"><img src="https://img.shields.io/badge/Website-alansouza.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/Alan-VSouza?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
 
@@ -41,11 +41,7 @@ const alan = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite&theme=dark" alt="Front-end" />
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,java,spring,go&theme=dark" alt="Back-end" />
-<br/>
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,postgres,sqlite,git,figma,jest&theme=dark" alt="Mobile, data and tools" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite,nodejs,express,cs,dotnet,java,spring,go,kotlin,androidstudio,postgres,sqlite,git,figma,jest&perline=11&theme=dark" alt="Tech stack" />
 
 </div>
 
@@ -53,20 +49,13 @@ const alan = {
 
 <div align="center">
 
-<a href="https://github.com/Alan-VSouza/claude-usage-widget">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-VSouza&repo=claude-usage-widget&theme=tokyonight&hide_border=true" alt="claude-usage-widget" />
-</a>
-<a href="https://github.com/Alan-VSouza/ControleGastosPessoais">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-VSouza&repo=ControleGastosPessoais&theme=tokyonight&hide_border=true" alt="ControleGastosPessoais" />
-</a>
-<a href="https://github.com/Alan-VSouza/Quizz-Game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-VSouza&repo=Quizz-Game&theme=tokyonight&hide_border=true" alt="Quizz-Game" />
-</a>
-<a href="https://github.com/Alan-VSouza/Simplify-sales-management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-VSouza&repo=Simplify-sales-management&theme=tokyonight&hide_border=true" alt="Simplify-sales-management" />
-</a>
+<a href="https://github.com/Alan-VSouza/claude-usage-widget"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-VSouza&repo=claude-usage-widget&theme=tokyonight&hide_border=true&card_width=410&description_lines_count=2" alt="claude-usage-widget" /></a>&nbsp;<a href="https://github.com/Alan-VSouza/ControleGastosPessoais"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-VSouza&repo=ControleGastosPessoais&theme=tokyonight&hide_border=true&card_width=410&description_lines_count=2" alt="ControleGastosPessoais" /></a>
+<br/><br/>
+<a href="https://github.com/Alan-VSouza/Quizz-Game"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-VSouza&repo=Quizz-Game&theme=tokyonight&hide_border=true&card_width=410&description_lines_count=2" alt="Quizz-Game" /></a>&nbsp;<a href="https://github.com/Alan-VSouza/Simplify-sales-management"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-VSouza&repo=Simplify-sales-management&theme=tokyonight&hide_border=true&card_width=410&description_lines_count=2" alt="Simplify-sales-management" /></a>
 
 </div>
+
+<br/>
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
@@ -85,8 +74,8 @@ const alan = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Alan-VSouza&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-VSouza&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Alan-VSouza&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />&nbsp;&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-VSouza&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
 
