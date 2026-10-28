@@ -74,7 +74,7 @@ const alan = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Alan-VSouza&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />&nbsp;&nbsp;
+<img height="165" src="https:/github-readme-stats.vercel.app/api?username=Alan-VSouza&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />&nbsp;&nbsp;
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-VSouza&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
@@ -88,3 +88,4 @@ const alan = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6366f1,100:0f172a&height=110&section=footer" alt="" />
 
 </div>
+ 
