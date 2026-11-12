@@ -61,8 +61,8 @@ I've worked in a **Central Bank-regulated fintech** and on a **high-volume enter
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Alan-VSouza&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-VSouza&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alan-VSouza&theme=tokyonight" alt="GitHub stats" />&nbsp;&nbsp;
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alan-VSouza&theme=tokyonight" alt="Repositories per language" />
 
 </div>
 
