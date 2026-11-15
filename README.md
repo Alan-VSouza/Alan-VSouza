@@ -40,12 +40,14 @@ I've worked in a **Central Bank-regulated fintech** and on a **high-volume enter
       <h3><a href="https://github.com/Alan-VSouza/Path-To-Victory">PathToVictory</a></h3>
       <p>Machine-learning model that predicts League of Legends win chances by champion, role and rank, and compares two picks. Flask API with a React UI.</p>
       <p><code>Python</code> <code>scikit-learn</code> <code>Flask</code> <code>React</code></p>
+      <p><a href="https://pathtovictory-demo-alan.netlify.app"><b>▶ Live demo</b></a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Alan-VSouza/Simplify-sales-management"><img src="https://raw.githubusercontent.com/Alan-VSouza/Simplify-sales-management/main/docs/screenshots/dashboard.png" alt="Simplify Sales dashboard" /></a>
       <h3><a href="https://github.com/Alan-VSouza/Simplify-sales-management">Simplify Sales</a></h3>
       <p>Sales, purchases and stock management for a micro-enterprise: revenue dashboard, products, clients, suppliers and transactions. Runs locally with one command.</p>
       <p><code>React</code> <code>TypeScript</code> <code>ASP.NET Core</code> <code>EF Core</code></p>
+      <p><a href="https://simplify-sales-demo-alan.netlify.app"><b>▶ Live demo</b></a></p>
     </td>
   </tr>
   <tr>
@@ -54,6 +56,7 @@ I've worked in a **Central Bank-regulated fintech** and on a **high-volume enter
       <h3><a href="https://github.com/Alan-VSouza/ControleGastosPessoais">Personal Finance</a></h3>
       <p>Full-stack money tracker with JWT auth, 30-day balance chart, savings rate, searchable history and period analytics. Charts are dependency-free SVG.</p>
       <p><code>React</code> <code>TypeScript</code> <code>.NET 9</code> <code>JWT</code></p>
+      <p><a href="https://controle-gastos-demo-alan.netlify.app"><b>▶ Live demo</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Alan-VSouza/claude-usage-widget">Claude Usage Widget</a></h3>
