@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Alan Souza</title>
+  <desc id="desc">Full-Stack Developer: React, Next.js and AI chatbots and agents</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#131a3a"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#6366f1" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#06b6d4" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#06b6d4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="300" rx="18"/></clipPath>
+    <style>
+      .name { font: 700 64px 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif; fill: #f8fafc; letter-spacing: -1px; }
+      .role { font: 500 24px 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif; fill: #c7d2fe; }
+      .tags { font: 500 16px 'Cascadia Code', 'JetBrains Mono', Consolas, monospace; fill: #94a3b8; }
+      .pill { font: 600 14px 'Segoe UI', Inter, Arial, sans-serif; fill: #a5f3fc; }
+      .code { font: 500 15px 'Cascadia Code', 'JetBrains Mono', Consolas, monospace; }
+      .float-a { animation: drift 14s ease-in-out infinite alternate; }
+      .float-b { animation: drift 18s ease-in-out infinite alternate-reverse; }
+      .pulse { animation: pulse 2.2s ease-in-out infinite; transform-origin: 66px 236px; }
+      .caret { animation: blink 1.1s steps(1) infinite; }
+      @keyframes drift { from { transform: translate(0, 0); } to { transform: translate(40px, -18px); } }
+      @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+      @keyframes blink { 50% { opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) { .float-a, .float-b, .pulse, .caret { animation: none; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <circle class="float-a" cx="930" cy="40" r="260" fill="url(#glowA)"/>
+    <circle class="float-b" cx="1130" cy="280" r="220" fill="url(#glowB)"/>
+
+    <!-- Left: identity -->
+    <rect x="56" y="64" width="44" height="4" rx="2" fill="url(#accent)"/>
+    <text x="54" y="138" class="name">Alan Souza</text>
+    <text x="56" y="178" class="role">Full-Stack Developer · React, Next.js &amp; AI</text>
+    <text x="56" y="208" class="tags">chatbots · agents · dashboards · APIs</text>
+
+    <rect x="52" y="222" width="236" height="30" rx="15" fill="#0e7490" fill-opacity="0.25" stroke="#22d3ee" stroke-opacity="0.45"/>
+    <circle class="pulse" cx="70" cy="237" r="5" fill="#22d3ee"/>
+    <text x="84" y="242" class="pill">Available for freelance work</text>
+
+    <!-- Right: code card -->
+    <g transform="translate(700 62)">
+      <rect width="440" height="176" rx="14" fill="#0b1020" fill-opacity="0.78" stroke="#ffffff" stroke-opacity="0.09"/>
+      <circle cx="22" cy="22" r="5" fill="#f87171"/>
+      <circle cx="40" cy="22" r="5" fill="#fbbf24"/>
+      <circle cx="58" cy="22" r="5" fill="#34d399"/>
+      <text x="24" y="66" class="code"><tspan fill="#c084fc">const</tspan><tspan fill="#e2e8f0"> alan = {</tspan></text>
+      <text x="44" y="92" class="code"><tspan fill="#7dd3fc">stack</tspan><tspan fill="#e2e8f0">: [</tspan><tspan fill="#86efac">"React"</tspan><tspan fill="#e2e8f0">, </tspan><tspan fill="#86efac">"Next.js"</tspan><tspan fill="#e2e8f0">, </tspan><tspan fill="#86efac">"Python"</tspan><tspan fill="#e2e8f0">],</tspan></text>
+      <text x="44" y="118" class="code"><tspan fill="#7dd3fc">ai</tspan><tspan fill="#e2e8f0">: [</tspan><tspan fill="#86efac">"LLMs"</tspan><tspan fill="#e2e8f0">, </tspan><tspan fill="#86efac">"RAG"</tspan><tspan fill="#e2e8f0">, </tspan><tspan fill="#86efac">"agents"</tspan><tspan fill="#e2e8f0">],</tspan></text>
+      <text x="44" y="144" class="code"><tspan fill="#7dd3fc">ships</tspan><tspan fill="#e2e8f0">: </tspan><tspan fill="#fbbf24">"to production"</tspan></text>
+      <text x="24" y="166" class="code" fill="#e2e8f0">};<tspan class="caret" fill="#22d3ee"> ▍</tspan></text>
+    </g>
+  </g>
+</svg>
